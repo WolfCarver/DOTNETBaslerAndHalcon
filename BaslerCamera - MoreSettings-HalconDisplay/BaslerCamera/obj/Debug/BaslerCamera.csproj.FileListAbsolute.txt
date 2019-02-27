@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\bin\Debug\BaslerCamera.exe.config
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\bin\Debug\BaslerCamera.exe
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\bin\Debug\BaslerCamera.pdb
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\bin\Debug\Basler.Pylon.dll
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.Form1.resources
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.csproj.CopyComplete
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.exe
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\obj\Debug\BaslerCamera.pdb
+C:\Users\Administrator\Desktop\机器视觉\BaslerCamera - MoreSettings-HalconDisplay\BaslerCamera\bin\Debug\halcondotnet.dll
